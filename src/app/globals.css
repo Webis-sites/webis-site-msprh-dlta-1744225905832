@@ -9,7 +9,14 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #96CEB4;
       --secondary-color: #223534;
-    }
+    
+  --shadow-neumorphic: 10px 10px 20px rgba(0, 0, 0, 0.1), -10px -10px 20px rgba(255, 255, 255, 0.05);
+  --shadow-neumorphic-button: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.1);
+  --shadow-neumorphic-button-hover: 7px 7px 15px rgba(0, 0, 0, 0.2), -7px -7px 15px rgba(255, 255, 255, 0.1);
+  --shadow-neumorphic-button-active: inset 5px 5px 10px rgba(0, 0, 0, 0.2), inset -5px -5px 10px rgba(255, 255, 255, 0.05);
+  --font-display: 'Heebo', 'Rubik', sans-serif;
+  --font-body: 'Assistant', 'Open Sans', sans-serif;
+}
 
     html {
       scroll-behavior: smooth;
