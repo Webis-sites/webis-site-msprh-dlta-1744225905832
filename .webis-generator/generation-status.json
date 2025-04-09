@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T19:12:10.094Z",
+  "timestamp": "2025-04-09T19:18:29.199Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section for a hair salon with headline, subheadline, and booking CTA"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of salon services with images, descriptions and pricing"
+    }
+  ],
   "repoName": "webis-site-msprh-dlta-1744225905832"
 }
