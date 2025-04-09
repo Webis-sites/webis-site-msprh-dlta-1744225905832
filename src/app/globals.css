@@ -16,6 +16,14 @@
   --shadow-neumorphic-button-active: inset 5px 5px 10px rgba(0, 0, 0, 0.2), inset -5px -5px 10px rgba(255, 255, 255, 0.05);
   --font-display: 'Heebo', 'Rubik', sans-serif;
   --font-body: 'Assistant', 'Open Sans', sans-serif;
+
+  --card-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05), -5px -5px 15px rgba(255, 255, 255, 0.8);
+  --card-shadow-hover: 10px 10px 20px rgba(0, 0, 0, 0.08), -10px -10px 20px rgba(255, 255, 255, 0.9);
+  --card-shadow-inner: inset 3px 3px 7px rgba(0, 0, 0, 0.1), inset -3px -3px 7px rgba(255, 255, 255, 0.6);
+  --glass-bg: rgba(255, 255, 255, 0.15);
+  --glass-border: rgba(255, 255, 255, 0.2);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --animation-duration: 0.3s;
 }
 
     html {
